@@ -1,6 +1,6 @@
 function setup() { // runs once 
   createCanvas(720,720);
-  background (255,0,0);
+  background ("violet");
   fill ("teal");
   strokeWeight(8);
 }
@@ -19,6 +19,6 @@ function draw() {
     } 
   }
   
-  
   noLoop(); 
+
 }
