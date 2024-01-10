@@ -2,7 +2,9 @@
 
 let gif; 
 
-function preload ('assets/LinGIF.gif');
+function preload (){
+	gif = loadImage ('assets/LinGIF.gif'):
+}
 
 
 function setup() { // runs once 
