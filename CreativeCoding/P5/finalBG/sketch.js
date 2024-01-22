@@ -3,7 +3,7 @@
 let gif; 
 
 function preload (){
-	gif = loadImage ('assets/LinGIF.gif'):
+	gif = loadImage ('assets/LinGIF.gif');
 }
 
 
