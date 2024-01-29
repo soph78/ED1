@@ -15,7 +15,7 @@ function setup() { // runs once
 
 function draw() { 
 
-  background('blue');
+  background('teal');
   
   var num = 24; 
   var sideLen = windowWidth/num;
